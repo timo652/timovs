@@ -1,5 +1,12 @@
-import Image from "next/image";
+// src/app/(home)/page.tsx
+
+import Typography from "@mui/material/Typography";
+
 
 export default function Home() {
-  return ();
+  return (
+
+     <Typography>Domovská stránka</Typography>
+    
+  );
 }
